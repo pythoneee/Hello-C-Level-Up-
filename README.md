@@ -1,4 +1,4 @@
-# Hello C++ Level Up!
+Hello C++ Level Up!
 
 
 Write a program that will display the words "Hello C++!" on screen but in this stylized manner:
